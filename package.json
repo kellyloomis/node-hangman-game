@@ -1,0 +1,23 @@
+{
+  "name": "hangman-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hangman.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyloomis/node-hangman-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellyloomis/node-hangman-game/issues"
+  },
+  "homepage": "https://github.com/kellyloomis/node-hangman-game#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "prompt": "^1.0.0"
+  }
+}
